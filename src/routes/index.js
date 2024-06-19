@@ -25,7 +25,7 @@ const routes = [
     {
         path: '/ContactUs',
         name: 'ContactUs',
-        component: ContactUs,
+        component: ContactUS,
     }, 
     {
         path: '/Cart',
